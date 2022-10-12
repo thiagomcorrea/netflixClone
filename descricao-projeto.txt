@@ -1,0 +1,3 @@
+- Manipulação com react.
+- Manipulação css.
+- Manipulação de API webservices.
